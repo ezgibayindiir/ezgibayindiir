@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Atlassian/Jira Consultant
-- 👩‍💻 I am working on scriptrunner to develop my jira solutions
+- 👩‍💻 I am working on scriptrunner to develop my Jira solutions
 -  I love to trekking 🚶‍♀️, yoga 🧘‍♀️, painting 🎨 and cycling 🚴‍♀️
 
 
