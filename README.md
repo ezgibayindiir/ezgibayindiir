@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img align="right" alt="GIF" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" height="320" />
 
 ## I'm a Atlassian/Jira Consultant
 - 👩‍💻 I am working on scriptrunner to develop my Jira solutions
